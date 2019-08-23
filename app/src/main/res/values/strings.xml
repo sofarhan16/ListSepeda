@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List Sepeda</string>
+    <string name="bikes_name">Nama Road Bike</string>
+    <string name="brand">Brand :</string>
+    <string name="jenis">Jenis sepeda :</string>
+    <string name="series">Series :</string>
+    <string name="type">Tipe Sepeda :   </string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
